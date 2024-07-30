@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title></title>
+    <title>Hello World</title>
     <link href="/2024/07/30/hello-world/"/>
     <url>/2024/07/30/hello-world/</url>
     
-    <content type="html"><![CDATA[<h1 id="未命名"><a href="#未命名" class="headerlink" title="未命名"></a>未命名</h1><p>​​</p><p>​​</p><hr><p>title: Hello World</p><hr><hr><p>title: Hello World<br>date: 2024-07-30 21:00:00<br>tags:</p><ul><li>hello</li><li>world<br>categories:</li><li>生活</li><li>编程</li></ul><hr><h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h1><p>欢迎来到我的博客！这是我的第一个文章。</p><p>在这个页面中，我想分享一些关于“Hello World”的想法。</p><h2 id="什么是-Hello-World？"><a href="#什么是-Hello-World？" class="headerlink" title="什么是 Hello World？"></a>什么是 Hello World？</h2><p>“Hello World”是程序员在学习新编程语言时通常编写的第一个程序。它的作用是展示语言的基本语法和输出功能。</p><h2 id="示例代码"><a href="#示例代码" class="headerlink" title="示例代码"></a>示例代码</h2><p>以下是一个简单的 Python 示例，展示如何打印“Hello World”：</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;Hello, World!&quot;</span>)<br></code></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<ul><li>hello world  </li><li>生活</li><li>编程</li></ul><hr><h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h1><p>欢迎来到我的博客！这是我的第一个文章。</p><p>在这个页面中，我想分享一些关于“Hello World”的想法。</p><h2 id="什么是-Hello-World？"><a href="#什么是-Hello-World？" class="headerlink" title="什么是 Hello World？"></a>什么是 Hello World？</h2><p>“Hello World”是程序员在学习新编程语言时通常编写的第一个程序。它的作用是展示语言的基本语法和输出功能。</p><h2 id="示例代码"><a href="#示例代码" class="headerlink" title="示例代码"></a>示例代码</h2><p>以下是一个简单的 Python 示例，展示如何打印“Hello World”：</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;Hello, World!&quot;</span>)<br></code></pre></td></tr></table></figure>]]></content>
     
     
     
